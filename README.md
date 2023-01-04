@@ -57,7 +57,7 @@ Webhook URL: https://a05f-61-25-23-68.ngrok.io/bot/webhook
       webhookEventId: '01GNM2EF14G4JZQEQ3VHRKC3Z5',
       deliveryContext: { isRedelivery: false },
       timestamp: 1672489679786,
-      source: { type: 'user', userId: 'Ua28679659df25be35471be860200a186' },
+      source: { type: 'user', userId: 'U********************************' },
       replyToken: '5f32339530cd46939db0bf81a75340ae',
       mode: 'active'
     }
